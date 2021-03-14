@@ -1,5 +1,5 @@
 var TDX = {
-	canvas:null,
+  canvas:null,
   ctx:null,
   fontType:null,
   fontSize:14,
